@@ -6,5 +6,5 @@ public class Student{
       }
    //create setter and getter methods for fName, lName, id, and gpa
    
-   //create toString method that will print out all value
+   //create toString method that will print out all values
 }
