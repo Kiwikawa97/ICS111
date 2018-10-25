@@ -1,4 +1,0 @@
-John Deere 321 3.5
-Jane Doe 234 3.6
-George Lee 432 2.6
-Jason Leigh 126 1.0
