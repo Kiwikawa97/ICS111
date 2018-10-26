@@ -23,11 +23,14 @@ Variables needed:  1. Employee Numer(Integer)
                    6. Array of Employees with size 5
                    7. Scanner object
                    
-Objective:         1. Use Scanner object to read from file
+Objective:         1. Read from file
                    2. Use a loop to store the values obtained from the file into the array of objects
+                      *Used a while loop since you've seen it done this way before
                    3. Ask user to input which employee profile they want to display
+                      *Made employee profile and employee number the same, because it's easier this way
                    4. Use a swtich statement to display the profile
                       *Default case displays all profiles
                    5. Ask user to input employee number (store this value for later use)
                    6. Ask user to input hours worked (store this value for later use)
                    7. Use weeklyPay method from Employee class to calculate the employee's weekly pay
+                   8. Display the employees weekly pay
