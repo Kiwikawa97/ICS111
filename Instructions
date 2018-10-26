@@ -1,6 +1,7 @@
 Instructions for ICS 111 midterm 2 practice. This is to practice Object Oriented Programming(OOP).
+Files needed: Employee.java, Work.java, and Employee.txt
 
-I have provided a file for a class called Employee.
+Employee Class:
 Variables needed:  1. Employee Number (Integer)
                    2. First Name  (String)
                    3. Last Name (String)
@@ -12,3 +13,21 @@ Methods needed:    1. Constructor Method (should take all 4 variables)
                    4. toString Method that creates a string containing all information of object
                    5. Method to calculate the weekly pay (keep in mind overtime pay)
                       *Overtime pay is anything above 40. It's also 1.5 times the amount of your normal hourly pay.
+                      
+Main Program:
+Variables needed:  1. Employee Numer(Integer)
+                   2. First Name (String)
+                   3. Last Name(String)
+                   4. Hourly Pay (Double)
+                   5. Hours (Double)
+                   6. Array of Employees with size 5
+                   7. Scanner object
+                   
+Objective:         1. Use Scanner object to read from file
+                   2. Use a loop to store the values obtained from the file into the array of objects
+                   3. Ask user to input which employee profile they want to display
+                   4. Use a swtich statement to display the profile
+                      *Default case displays all profiles
+                   5. Ask user to input employee number (store this value for later use)
+                   6. Ask user to input hours worked (store this value for later use)
+                   7. Use weeklyPay method from Employee class to calculate the employee's weekly pay
