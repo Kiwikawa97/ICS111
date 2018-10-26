@@ -7,7 +7,7 @@ public class Work{
       while(){
          
       }
-      switch(choice){
+      switch(){
          case 4: 
          case 3:          
          case 2: 
