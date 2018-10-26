@@ -7,30 +7,30 @@ public class Employee{
      
   }
   public int getNum(){
-     
+     return
   }
   public void setfName(){
   
   } 
   public String getfName(){
-  
+     return
   }
   public void setlName(){
   
   }
   public String getlName(){
-  
+     return
   }
   public void setHourly(){
   
   }
   public double getHourly(){
-    
+      return
   }
   public String toString(){
-      return output;
+      return
   }
   public double weeklyPay(){
-      return pay;
+      return
   }
 }
