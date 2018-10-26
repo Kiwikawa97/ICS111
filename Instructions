@@ -1,0 +1,14 @@
+Instructions for ICS 111 midterm 2 practice. This is to practice Object Oriented Programming(OOP).
+
+I have provided a file for a class called Employee.
+Variables needed:  1. Employee Number (Integer)
+                   2. First Name  (String)
+                   3. Last Name (String)
+                   4. Hourly Pay (Double)
+             
+Methods needed:    1. Constructor Method (should take all 4 variables) 
+                   2. Mutator Methods for all variables
+                   3. Accessor Methods for all variables
+                   4. toString Method that creates a string containing all information of object
+                   5. Method to calculate the weekly pay (keep in mind overtime pay)
+                      *Overtime pay is anything above 40. It's also 1.5 times the amount of your normal hourly pay.
